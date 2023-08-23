@@ -7,11 +7,18 @@
   <ul>Express</ul>
   <ul>javascript,node</ul>
 </ol>
-    .</p>
+    </p>
   <img src="https://github.com/abhinavsrepository/logintask/blob/Main/login-page.jpg"/>
   <img src="https://github.com/abhinavsrepository/logintask/blob/Main/voosh.jpg"/>
   <img src="https://github.com/abhinavsrepository/logintask/blob/Main/more.jpg"/>
-  
-  
+  <h4>
+    Start the app 
+    
+  </h4>
+  <ul>
+    <p>clone the app</p>
+    <p>nodemon app.js</p>
+    
+  </ul>
   
 </html>
